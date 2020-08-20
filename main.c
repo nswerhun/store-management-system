@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+void arlProducts();
+void arlSales();
+
 int main() {
     int choosepos;
 
